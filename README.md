@@ -1,16 +1,16 @@
-Getting_and_Cleaning_Data_Project
-=================================
-Step 1: Unzip the source ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) to a folder on your pc. For example C:\TEMP\DATAPROJ\
+# Getting and Cleaning Data Project Readme
 
-Step 2: Download the run_analysis.R to C:\TEMP\DATAPROJ\UCI HAR Dataset\
+*Step 1: Unzip the source ( https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ) to a folder on your pc. For example C:\TEMP\DATAPROJ\
 
-Step 3: Open R studio and set working directory to 
+*Step 2: Download the run_analysis.R to C:\TEMP\DATAPROJ\UCI HAR Dataset\
+
+*Step 3: Open R studio and set working directory to 
 C:\TEMP\DATAPROJ\UCI HAR Dataset\
 
-Step 4: Run the analysis code by using the command
+*Step 4: Run the analysis code by using the command
 source("run_analysis.R")
 
-Step 5: The R script will process the data files in the folder and carries out the following tasks - 
+*Step 5: The R script will process the data files in the folder and carries out the following tasks - 
 
 a. Merges the training and the test sets to create one data set.
 
